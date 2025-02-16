@@ -1,0 +1,2 @@
+# jezrel
+Static Portfolio
